@@ -1,1 +1,1 @@
-"# facial-trend" 
+"# guasha" 
